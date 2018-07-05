@@ -139,7 +139,7 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color: #919303; }
     position: relative;
     /*margin-bottom:21px;*/
     min-height: 85px;
-    padding-top: 20px;
+    /*padding-top: 20px;*/
     /*height: 105px;*/
 }    
 
