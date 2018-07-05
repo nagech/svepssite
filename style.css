@@ -94,7 +94,7 @@ pre { margin-bottom: 10px; margin-top: 10px; }
 
 /* ===== SIDEBAR LAYOUT ===== */
 .sidebar-left .sidebar, .sidebar-right .content { float: left; }
-.sidebar-right .sidebar, .sidebar-left .content { float: right; }
+.sidebar-right .sidebar, .sidebar-left .content { float: left; }
 
 /* ===== HEADINGS ===== */
 h1, h2, h3, h4, h5, h6,
