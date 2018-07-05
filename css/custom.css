@@ -112,8 +112,8 @@ h1 span.title-highlight, h2 span.title-highlight, h3 span.title-highlight, h4 sp
 #back-top a, #back-top a:hover { font-size: 12px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
 #header #logo #textual, span.logo { font-size: 60px; font-family: 'Georgia', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
 #header #logo #textual span { font-size: 40px; font-family: 'Georgia', sans-serif; color: #919303; font-style: normal; font-weight: 400; }
-#header #logo #tagline { font-size: 14px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
-#header #logo #tagline span { font-size: 14px; font-family: 'Open Sans', sans-serif; color: #e5f99a; font-style: normal; font-weight: 400; }
+#header #logo #tagline { font-size: 18px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
+#header #logo #tagline span { font-size: 18px; font-family: 'Open Sans', sans-serif; color: #e5f99a; font-style: normal; font-weight: 400; }
 #fast-login label, #fast-login input { font-size: 10px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400; }
 #fast-login a { color: #ffffff; }
 #topbar_login a.topbar_login:hover, #fast-login a:hover { color: #E5F99A; }
